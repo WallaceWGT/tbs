@@ -1,0 +1,6 @@
+2018-09-13 17:42:26,273 - default - ERROR - 123456 get operation is fails,by operated object is apiInstance, the reason is fun() takes no arguments (2 given)
+2018-09-13 17:43:07,598 - default - ERROR - 123456 get operation is fails,by operated object is test, the reason is fun() takes no arguments (2 given)
+2018-09-13 17:43:33,151 - default - ERROR - 123456 get operation is fails,by operated object is test, the reason is 'NoneType' object has no attribute 'get'
+2018-09-13 17:44:41,470 - default - ERROR - 123456 get operation is fails,by operated object is test, the reason is 'NoneType' object has no attribute 'get'
+2018-09-13 17:45:04,806 - default - INFO - 123456 get operation is successful, object is test
+2018-09-13 17:53:31,404 - default - INFO - 123456 get operation is successful, object is test
